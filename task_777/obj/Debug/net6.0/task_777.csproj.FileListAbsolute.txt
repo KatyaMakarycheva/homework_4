@@ -1,0 +1,15 @@
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\obj\Debug\net6.0\task_777.csproj.AssemblyReference.cache
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\obj\Debug\net6.0\task_777.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\obj\Debug\net6.0\task_777.AssemblyInfoInputs.cache
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\obj\Debug\net6.0\task_777.AssemblyInfo.cs
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\obj\Debug\net6.0\task_777.csproj.CoreCompileInputs.cache
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\bin\Debug\net6.0\task_777.exe
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\bin\Debug\net6.0\task_777.deps.json
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\bin\Debug\net6.0\task_777.runtimeconfig.json
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\bin\Debug\net6.0\task_777.dll
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\bin\Debug\net6.0\task_777.pdb
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\obj\Debug\net6.0\task_777.dll
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\obj\Debug\net6.0\refint\task_777.dll
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\obj\Debug\net6.0\task_777.pdb
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\obj\Debug\net6.0\task_777.genruntimeconfig.cache
+C:\Users\belov\OneDrive\Рабочий стол\homework_4\task_777\obj\Debug\net6.0\ref\task_777.dll
